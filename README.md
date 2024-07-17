@@ -58,16 +58,13 @@ Previous_week_Revenue = CALCULATE(
 
 #### WoW Change:
 - Revenue increased by 28.8%
-- Total Transaction Amount & Count increased by xx% & xx%
-- Customer count increased by xx%
+- Total Transaction Amount & Count increased by 24.18% & 8.33%
+- Customer count increased by 10%
 
 #### Overview YTD:
-- Overall revenue is 57M
-- Total interest is 8M
-- Total transaction amount is 46M
-- Male customers are contributing more in revenue: 31M, female: 26M
+- Overall revenue is 112M
+- Total interest is 15.8M
+- Total transaction amount is 90.1M
+- Male customers are contributing more in revenue: 61M, female: 51M
 - Blue & Silver credit cards are contributing to 93% of overall transactions
 - TX, NY & CA are contributing to 68%
-- Overall Activation rate is 57.5%
-- Overall Delinquent rate is 6.06%
-
