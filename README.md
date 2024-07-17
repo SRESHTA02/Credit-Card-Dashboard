@@ -52,4 +52,20 @@ Previous_week_Revenue = CALCULATE(
  ALL('public cc_detail'),
  'public cc_detail'[week_num2] = MAX('public cc_detail'[week_num2]) - 1
 ))
+```
 
+#Dashboard & Insights
+##Project Insights - Week 53 (31st Dec)
+###WoW Change:
+Revenue increased by 28.8%
+Total Transaction Amount & Count increased by xx% & xx%
+Customer count increased by xx%
+###Overview YTD:
+Overall revenue is 57M
+Total interest is 8M
+Total transaction amount is 46M
+Male customers are contributing more in revenue: 31M, female: 26M
+Blue & Silver credit cards are contributing to 93% of overall transactions
+TX, NY & CA are contributing to 68%
+Overall Activation rate is 57.5%
+Overall Delinquent rate is 6.06%
